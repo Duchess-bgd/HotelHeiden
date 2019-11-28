@@ -7,7 +7,9 @@ Završni rad za kurs PHP programiranja u Code Academiji
 
 članovi tima:
 Jovana Matijević
+
 Gordana Radović
+
 Jovan Nikolić
 
 Ovaj rad predstavlja web sajt zamišljenog hotela, koji u sebi ima ne samo predstavljen hotel vec i aplikaciju za online odabir i rezervaciju soba i apartmana. U izradi kompletnog projekta korišćeni su HTML, CSS (Bootstrap), Java Script, PDO i PHP.
